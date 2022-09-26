@@ -34,6 +34,12 @@
     margin-left: 20px;
 }
 
+.social, .subscribe
+{
+    align-self: flex-end;
+    margin-bottom: 20px;
+}
+
 .header-container
 {
     color: #5995da;
